@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Understanding Dementia",
+    "summary": "Learn about symptoms, causes, and how to support someone with dementia.",
+    "imageUrl": "",
+    "link": "https://www.nhs.uk/conditions/dementia/"
+  },
+  {
+    "title": "Staying Active with Memory Problems",
+    "summary": "How physical activity can help slow memory decline.",
+    "imageUrl": "",
+    "link": "https://www.nhs.uk/live-well/exercise/exercise-health-benefits/"
+  },
+  {
+    "title": "Healthy Eating for Brain Health",
+    "summary": "A balanced diet can help improve brain function and delay cognitive decline.",
+    "imageUrl": "",
+    "link": "https://www.nia.nih.gov/health/what-do-we-know-about-diet-and-prevention-alzheimers-disease"
+  },
+  {
+    "title": "Sleep and Cognitive Function",
+    "summary": "Good sleep is critical for memory consolidation and brain health.",
+    "imageUrl": "",
+    "link": "https://www.sleepfoundation.org/how-sleep-works/why-do-we-need-sleep"
+  },
+  {
+    "title": "Practicing Mindfulness",
+    "summary": "Mindfulness can reduce stress and improve mental clarity.",
+    "imageUrl": "",
+    "link": "https://www.nhs.uk/mental-health/self-help/tips-and-support/mindfulness/"
+  },
+  {
+    "title": "Art Therapy Benefits",
+    "summary": "Engaging in creative activities can help express emotions and stimulate memory.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8006414/"
+  },
+  {
+    "title": "Understanding Alzheimer's Progression",
+    "summary": "Recognize the stages of Alzheimer's to better support your loved one.",
+    "imageUrl": "",
+    "link": "https://www.alz.org/alzheimers-dementia/stages"
+  },
+  {
+    "title": "Recognizing Early Signs of Dementia",
+    "summary": "Learn to identify the early symptoms of dementia for timely care.",
+    "imageUrl": "",
+    "link": "https://www.nhs.uk/conditions/dementia/symptoms/"
+  },
+  {
+    "title": "The Role of Caregivers",
+    "summary": "How caregivers can maintain their health while caring for others.",
+    "imageUrl": "",
+    "link": "https://www.nia.nih.gov/health/taking-care-yourself-tips-caregivers"
+  },
+  {
+    "title": "Navigating Diagnosis",
+    "summary": "What to expect during a dementia diagnosis and how to prepare.",
+    "imageUrl": "",
+    "link": "https://www.nhs.uk/conditions/dementia/diagnosis/"
+  },
+  {
+    "title": "Financial Planning After Diagnosis",
+    "summary": "Planning ahead financially after a dementia diagnosis is important.",
+    "imageUrl": "",
+    "link": "https://www.alz.org/help-support/caregiving/financial-legal-planning"
+  },
+  {
+    "title": "Preventing Wandering",
+    "summary": "Safety tips to prevent wandering and keep loved ones secure.",
+    "imageUrl": "",
+    "link": "https://www.alz.org/help-support/caregiving/stages-behaviors/wandering"
+  },
+  {
+    "title": "How Pets Can Help",
+    "summary": "The presence of pets can provide comfort and companionship.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7923067/"
+  },
+  {
+    "title": "Importance of Daylight",
+    "summary": "Natural light improves sleep and mood in dementia patients.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3023063/"
+  },
+  {
+    "title": "Spiritual Care and Dementia",
+    "summary": "Spirituality can offer comfort and a sense of identity.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5188259/"
+  },
+  {
+    "title": "Alzheimer’s and Nutrition",
+    "summary": "Understanding the link between food and brain health.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2805706/"
+  },
+  {
+    "title": "Benefits of Reminiscence Therapy",
+    "summary": "Talking about the past can boost mood and reduce anxiety.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5722529/"
+  },
+  {
+    "title": "Caregiver Support Groups",
+    "summary": "Connecting with others can reduce isolation and burnout.",
+    "imageUrl": "",
+    "link": "https://www.alz.org/help-support/community/support-groups"
+  },
+  {
+    "title": "Power of Positive Reinforcement",
+    "summary": "Encouragement can motivate and reinforce good habits.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5665435/"
+  },
+  {
+    "title": "Maintaining Independence",
+    "summary": "How to help patients feel independent while staying safe.",
+    "imageUrl": "",
+    "link": "https://www.alzheimers.org.uk/get-support/staying-independent"
+  },
+  {
+    "title": "Signs of Caregiver Burnout",
+    "summary": "Learn when caregivers need rest and support.",
+    "imageUrl": "",
+    "link": "https://www.helpguide.org/articles/stress/caregiver-stress-and-burnout.htm"
+  },
+  {
+    "title": "Talking About Dementia with Children",
+    "summary": "How to explain Alzheimer’s to young family members.",
+    "imageUrl": "",
+    "link": "https://www.alz.org/help-support/resources/kids-teens"
+  },
+  {
+    "title": "Encouraging Independence in Dressing",
+    "summary": "Tips to help patients dress with less frustration.",
+    "imageUrl": "",
+    "link": "https://www.alzheimers.org.uk/get-support/daily-living/dressing"
+  },
+  {
+    "title": "Benefits of Nature Exposure",
+    "summary": "Time in nature helps reduce agitation and improve mood.",
+    "imageUrl": "",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7792056/"
+  }
+]
