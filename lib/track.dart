@@ -68,6 +68,7 @@ class _TrackWidgetState extends State<TrackWidget> {
       print('Error: $e');
       setState(() {
         detectedActivity = 'Error detecting activity';
+        
       });
     } finally {
       setState(() {
@@ -221,7 +222,7 @@ class ApiService {
   static Future<String?> sendFrame(XFile file) async {
     var request = http.MultipartRequest(
       'POST',
-      Uri.parse('http://192.168.234.93:5000/predict_activity'), // Change this
+      Uri.parse('http://192.168.23.93:5000/predict_activity'), // Change this
     );
 
     request.files.add(
