@@ -23,15 +23,19 @@ AlzCare is a **smart assistance app for Alzheimer’s patients**, designed to pr
 
 ---
 
-## **Screenshots**
+## Screenshots
 
-It’s recommended to include screenshots for better understanding:  
-
-![Home Screen](screenshots/home.png)  
-![MindMaze Game](screenshots/mindmaze.png)  
-![Journal Page](screenshots/journal.png)
-
-> Tip: Create a `screenshots/` folder in your repo and save images there. Then link them in README as above.
+<table>
+  <tr>
+    <td><img src="./al6.jpg" alt="Home Screen" width="250"/></td>
+    <td><img src="./al8.jpg" alt="MindMaze Game" width="250"/></td>
+    <td><img src="./al12.jpg" alt="Journal Page" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="./al14.jpg" alt="Live Feed Services page" width="250"/></td>
+    <td><img src="./al7.jpg" alt="Track" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
@@ -39,7 +43,7 @@ It’s recommended to include screenshots for better understanding:
 
 Watch the AlzCare app in action:  
 
-[![Watch Demo](./al1.jpg)](./demo%20video%20(AlzCare).mp4)
+[![Watch Demo](./al1.png)](./demo%20video%20(AlzCare).mp4)
 
 ---
 
@@ -62,7 +66,7 @@ Watch the AlzCare app in action:
 
 ---
 
-Contributing
+## Contributing
 We welcome contributions to improve AlzCare’s frontend, including:
 1. Enhancing UI/UX
 2. Adding new features
