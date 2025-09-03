@@ -39,9 +39,7 @@ It’s recommended to include screenshots for better understanding:
 
 Watch the AlzCare app in action:  
 
-[![Watch the demo](screenshots/demo_thumbnail.png)](https://drive.google.com/file/d/YOUR_VIDEO_FILE_ID/view?usp=sharing)
-
-> Replace the thumbnail with a snapshot from your video and link it to your actual demo video on Google Drive or YouTube.
+[![Watch Demo](./al1.jpg)](./demo%20video%20(AlzCare).mp4)
 
 ---
 
