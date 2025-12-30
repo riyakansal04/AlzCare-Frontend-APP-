@@ -2,7 +2,9 @@
 
 AlzCare is a **smart assistance app for Alzheimer’s patients**, designed to provide real-time monitoring, cognitive exercises, daily activity tracking, and caregiver alerts. .
 This repository contains the **Flutter Frontend**, along with a link to the backend used for monitoring and alerts.
+
 👉 **Backend Repository:**  
+
 https://github.com/riyakansal04/AlzCare
 ---
 
