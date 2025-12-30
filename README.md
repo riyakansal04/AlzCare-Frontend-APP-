@@ -1,25 +1,57 @@
 # AlzCare Frontend
 
-AlzCare is a **smart assistance app for Alzheimer’s patients**, designed to provide real-time monitoring, cognitive exercises, daily activity tracking, and caregiver alerts. This repository contains the **Flutter-based frontend** for the app.
+AlzCare is a **smart assistance app for Alzheimer’s patients**, designed to provide real-time monitoring, cognitive exercises, daily activity tracking, and caregiver alerts. .
+This repository contains the **Flutter Frontend**, along with a link to the backend used for monitoring and alerts.
+👉 **Backend Repository:**  
+https://github.com/riyakansal04/AlzCare
+---
+
+## 📌 Project Overview
+
+| Area | Details |
+|------|--------|
+| **Platform** | Flutter (Android/iOS) |
+| **Backend** | Python + Flask |
+| **AI Model** | CNN-LSTM + MediaPipe |
+| **Goal** | Safety, cognitive support, real-time alerts |
+
+The app connects with the backend to detect anomalies and notify caregivers instantly.
 
 ---
 
-## **Project Overview**
+## ✨ Key Features
 
-- **Platform:** Flutter (Android/iOS compatible)  
-- **Purpose:** Provide a user-friendly interface for Alzheimer’s patients and caregivers.  
-- **Integration:** Connects with the backend for activity recognition, alerts, and data management.  
+### 📱 Flutter Frontend
+
+- 🔔 Real-time alert notifications  
+- 🧩 MindMaze — cognitive games  
+- 📓 Journal — write daily thoughts & moods  
+- 📰 Live Feed — health tips & motivation  
+- 👤 Profile & medical information  
+- 📅 Event tracker & reminders  
+
+### 🧠 AI + Backend
+
+- 👀 Activity tracking using **MediaPipe Pose**
+- 🧠 CNN-LSTM activity classification
+- 🚨 Fall & abnormal inactivity detection
+- 🎥 Flask live video streaming
+- 📡 Alerts via UI popups / email / SMS
+
+Backend: https://github.com/riyakansal04/AlzCare
 
 ---
 
-## **Key Features**
+## 🏗️ Tech Stack
 
-- **Real-Time Notifications:** Receives SMS and email alerts from the backend for abnormal activities.  
-- **MindMaze Games:** Gentle cognitive exercises to improve memory, focus, and emotional awareness.  
-- **Journal Module:** Patients can write thoughts, feelings, and daily notes.  
-- **Live Feed Services:** Health tips, motivational stories, and Alzheimer-related news.  
-- **Profile Management:** Patients and caregivers can view and edit personal & medical information.  
-- **Event Tracker & Reminders:** Helps maintain daily routines and appointments.
+| Component | Technology |
+|-----------|------------|
+| Mobile UI | Flutter (Dart) |
+| Backend API | Flask (Python) |
+| AI Model | TensorFlow / Keras |
+| Pose Estimation | MediaPipe |
+| Streaming | OpenCV |
+| Alerts | SMTP / Twilio |
 
 ---
 
